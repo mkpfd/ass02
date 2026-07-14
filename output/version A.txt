@@ -1,0 +1,131 @@
+
+User program running
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Add Member
+3. Issue Book
+4. Return Book
+5. Display Books
+6. Display Members
+7. Exit
+Enter Choice : 
+1
+Book ID : 
+001
+Book Title : 
+Harry potter
+Author : 
+JK
+Book Added
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Add Member
+3. Issue Book
+4. Return Book
+5. Display Books
+6. Display Members
+7. Exit
+Enter Choice : 
+2
+Member ID : 
+0001
+Member Name : 
+Kaveesh
+Member Added
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Add Member
+3. Issue Book
+4. Return Book
+5. Display Books
+6. Display Members
+7. Exit
+Enter Choice : 
+3
+Book ID : 
+001
+Member ID : 
+0001
+Book Issued
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Add Member
+3. Issue Book
+4. Return Book
+5. Display Books
+6. Display Members
+7. Exit
+Enter Choice : 
+5
+
+----- Book List -----
+Book ID : 1
+Title : Harry potter
+Author : JK
+Available : false
+2
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Add Member
+3. Issue Book
+4. Return Book
+5. Display Books
+6. Display Members
+7. Exit
+Enter Choice : 
+6
+
+----- Member List -----
+Member ID : 1
+Member Name : Kaveesh
+2
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Add Member
+3. Issue Book
+4. Return Book
+5. Display Books
+6. Display Members
+7. Exit
+Enter Choice : 
+4
+Book ID : 
+001
+Book Returned
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Add Member
+3. Issue Book
+4. Return Book
+5. Display Books
+6. Display Members
+7. Exit
+Enter Choice : 
+5
+
+----- Book List -----
+Book ID : 1
+Title : Harry potter
+Author : JK
+Available : true
+2
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Add Member
+3. Issue Book
+4. Return Book
+5. Display Books
+6. Display Members
+7. Exit
+Enter Choice : 
+7
+Program End
+User program finished
